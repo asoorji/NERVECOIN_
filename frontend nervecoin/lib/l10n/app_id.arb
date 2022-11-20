@@ -1,0 +1,20 @@
+{
+  "desc": "Saya seorang pengembang seluler kreatif.",
+  "@desc": {
+    "description": "details about my work experiences"
+  },
+  "greetings": "Hai yang di sana,",
+  "@greetings": {
+    "description": "greet the user"
+  },
+  "im": "Verifikasi identitas Anda",
+  "@im": {
+    "description": "just im"
+  },
+  "project": "Beri tahu kami lebih banyak tentang Anda untuk mengamankan akun Anda dengan lebih baik",
+  "@project": {},
+  "title": "Pengembang Seluler",
+  "@title": {
+    "description": "developer stack\n"
+  }
+}

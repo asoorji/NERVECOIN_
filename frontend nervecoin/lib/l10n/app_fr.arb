@@ -1,0 +1,15 @@
+{
+  "im": "Vérifiez Votre Identité",
+  "@im": {
+    "description": {}
+  },
+
+  "desc": "L'application foodnerve apporte tous les meilleurs aliments gratuits pour un ramassage facile autour de vous",
+  "@desc": {
+    "description": {}
+  },
+
+  "project": "Deites-nous en plus sur vous pour mieux sécuriser votre compt",
+  "@project": {}
+
+}

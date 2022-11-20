@@ -1,0 +1,15 @@
+{
+   "im": "Verify your identity ",
+  "@im": {
+    "description": "just im"
+  },
+
+ "desc": "The foodnerve app brings all the best free food for easy pick up around you",
+  "@desc": {
+    "description": "details about my work experiences"
+  },
+
+  "project": "Tell us more about you to better secure your account",
+  "@project": {}
+ 
+}  
