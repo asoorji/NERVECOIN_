@@ -1,5 +1,5 @@
 # Nervecoin
-A token payment system that uses cryto as ledgers
+A token payment system that uses cryto as ledgers. NodeJS + FLutter
 
 ![image](https://user-images.githubusercontent.com/42071241/203498573-90394e7f-a874-42a6-8c5a-1597dcec92d6.png)
 ![image](https://user-images.githubusercontent.com/42071241/203498652-7487e936-62f9-44d9-b20e-2b80f0b5042c.png)
